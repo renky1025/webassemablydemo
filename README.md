@@ -38,3 +38,7 @@ rename:
 
 ## call c function in js file
 * `_generateRandom()`
+
+## start http server at local with "http-server"
+* install `npm install http-server -g`
+* start service `http-server ./ -p 8081 -c-1`
